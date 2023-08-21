@@ -1,6 +1,6 @@
 {
-    "name": "return_url",
-    "short_name": "return_url",
+    "name": "Return URL",
+    "short_name": "Return URL",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
